@@ -12,9 +12,9 @@ public class BubbleSort {
 		
 		int n=a.length;
 		
-		for(int i=0; i<n-1; i++)
+		for(int i=0; i<n-1; i++) //this for loop is for pass
 		{
-			for(int j=0; j<n-1; j++) 
+			for(int j=0; j<n-1; j++) //this for loop is for swapping
 			{
 				if (a[j]>a[j+1]) 
 				{
