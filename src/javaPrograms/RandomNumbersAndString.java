@@ -5,6 +5,11 @@ import java.util.stream.DoubleStream;
 
 import org.apache.commons.lang3.RandomStringUtils;
 
+/**
+ * 
+ * @author Nilesh Pardeshi
+ *
+ */
 public class RandomNumbersAndString {
 
 	public static void main(String[] args) {
