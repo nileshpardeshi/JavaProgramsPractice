@@ -2,6 +2,12 @@ package javaPrograms;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Nilesh Pardeshi
+ *
+ */
+
 public class ReverserNumber {
 
 	public static void main(String[] args) {

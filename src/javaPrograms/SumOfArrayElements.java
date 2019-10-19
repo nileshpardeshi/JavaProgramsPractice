@@ -2,6 +2,12 @@ package javaPrograms;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * @author Nilesh Pardeshi
+ *
+ */
+
 public class SumOfArrayElements {
 
 	public static void main(String[] args) {
