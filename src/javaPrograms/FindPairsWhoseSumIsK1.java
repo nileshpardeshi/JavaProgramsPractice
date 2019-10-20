@@ -22,7 +22,7 @@ public class FindPairsWhoseSumIsK1 {
 	    // Main to test the above function 
 	    public static void main(String[] args) 
 	    { 
-	        int A[] = {1, 1, 2, 3, 4, 2}; 
+	        int A[] = {1, 1, 2, 3, 4}; 
 	        int n = 4; 
 	        printpairs(A, n); 
 	    } 
